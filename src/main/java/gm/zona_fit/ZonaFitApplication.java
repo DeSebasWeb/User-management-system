@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.List;
 import java.util.Scanner;
-
+//Aplicacion en consola(Demo)
 
 //@SpringBootApplication
 public class ZonaFitApplication implements CommandLineRunner {
